@@ -1,8 +1,8 @@
 import React from 'react';
 
-// import './styles/global';
-
 import Routes from './routes';
+
+import "font-awesome/css/font-awesome.css";
 
 const App = () => <Routes />;
 
