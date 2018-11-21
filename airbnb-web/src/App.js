@@ -1,9 +1,6 @@
-import React from 'react';
-
-import Routes from './routes';
-
-import "font-awesome/css/font-awesome.css";
+import React from "react";
+import Routes from "./routes";
+import "./styles/global";
 
 const App = () => <Routes />;
-
 export default App;
